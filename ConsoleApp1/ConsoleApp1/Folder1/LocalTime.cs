@@ -11,5 +11,7 @@ namespace ConsoleApp1.Folder1
         public int Name { get; set; }
         public DateTime Time { get; set; }
         public int Pressure { get; set; }
+        public int Pressure2 { get; set; }
+
     }
 }
